@@ -1,0 +1,4 @@
+pdfminer.six
+docx2txt
+numpy
+nltk
